@@ -24,3 +24,4 @@ celery==3.1.23
 pytest==3.0.6
 prettytable==0.7.2
 pip==9.0.1
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
